@@ -1,2 +1,3 @@
 Git Practice
-commit 2
+commit 2  
+branch1
